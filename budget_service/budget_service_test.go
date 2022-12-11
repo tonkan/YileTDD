@@ -1,4 +1,4 @@
-package bidget_service
+package budget_service
 
 import (
 	"YileTDD/budget"
